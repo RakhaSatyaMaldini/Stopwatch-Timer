@@ -1,0 +1,1 @@
+Ini Adalah Stopwatch sederhana.
